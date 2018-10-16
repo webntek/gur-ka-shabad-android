@@ -1,2 +1,2 @@
 # gur-ka-shabad-android
-Open Source Speech To Text for Sri Guru Granth Sahib Ji (Android)
+Open Source Speech to Text Android App Code for Guru Granth Sahib Ji - Feel Free To Clone or Improve.
